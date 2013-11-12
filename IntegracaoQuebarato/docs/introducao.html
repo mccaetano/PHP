@@ -1,0 +1,79 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Carga XML para QueBarato</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link type="text/css" rel="stylesheet" href="default.css">
+    </head>
+    <body>
+        <div>
+            <h1>Introdução</h1>
+            <p>
+                Este aplicativo é uma carga de dados de anuncios de veículos 
+                particular para o Site QueBarato. O mesmo é desenvolvido em 
+                PHP e nescessita de PHP5 e driver de banco de dados nos quais 
+                foram homologados Mysql e MSSqlServer.
+                Configure o aplicativo antes de rodar 
+                <a href="#conf">Configuração</a>.
+            </p>
+            <p>Este aplicativo tem como programa principal o QueBarato_main.php</p>
+            <p>A estrutura do Aplicativo é</p>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>CargaXMLQueBarato</td>
+                        <td>Pasta Padrão do Aplicativo</td>
+                    </tr>
+                    <tr>
+                        <td>core</td>
+                        <td>Pasta core contem utilitário do framework</td>
+                    </tr>  
+                    <tr>
+                        <td>docs</td>
+                        <td>Pasda de ajuda do aplicativo</td>
+                    </tr>   
+                    <tr>
+                        <td>scripts\db\MSSQL</td>
+                        <td>Pasta com script para criar a tabela de controle para MSSqlServer</td>
+                    </tr>   
+                    <tr>
+                        <td>scripts\db\Mysql</td>
+                        <td>Pasta com script para criar a tabela de controle para Mysql</td>
+                    </tr>   
+                    <tr>
+                        <td>tmp</td>
+                        <td>Pasta temporária para uso exclusivo da aplicação</td>
+                    </tr>  
+                    <tr>
+                        <td>sys.properties</td>
+                        <td>Arquivo de configuração da aplicação</td>
+                    </tr>   
+                    <tr>
+                        <td>QueBarato_Main.php</td>
+                        <td>Arquivo de inicialização da aplicação</td>
+                    </tr>                                     
+                </tbody>
+            </table>
+            <h2>Pré Requisitos</h2>
+            <ul>
+                <li>PHP 5.2 ou superior</li>
+                <li>Extensões
+                    <ul>
+                        <li>php_MSSQL, ou php_mysqli, ou php_mysql, ou php_sqlsrv_5X_ts</li> 
+                        <li>php_curl</li> 
+                        <li>php_socks</li>
+                        <li>php_gd2</li>                                
+                        <li>php_xmlrpc</li>
+                    </ul>
+                </li>                        
+            </ul>
+            <p>para consultar dados do Quebarato, <a href="consulta.html">Consulta</a></p>
+            <h3>Nota:</h3>
+            <p>para Banco de dados php_sqlsrv_5X_ts so funciona com 32bits</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,125 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Carga XML para QueBarato</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link type="text/css" rel="stylesheet" href="default.css">
+    </head>
+    <body>
+        <div class="dvbody">
+            <h1>Configuração</h1>
+            <p>
+                A configuração é baseada em arquivo properties &lt;key&gt;=&lt;value&gt;, 
+                este arquivo se chama <b>sys.properties</b>:
+            </p>
+            <h3>Parametros</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <td>Chave</td>
+                        <td>Valores</td>
+                        <td>Descrição</td>
+                    </tr>
+                </thead>
+                <tbody>        
+                    <tr>
+                        <td>carga.tipo.origem</td>
+                        <td>arquivo, diretorio</td>
+                        <td>Parametro que determina a forma de de leitura dos arquivos </td>
+                    </tr>
+                    <tr>
+                        <td>carga.arquivo.nome</td>
+                        <td>file://.../file1.xml , http://.../file1.xml , <br>
+                            \dir1\file1.xml (Unix), C:\dir1\dir2\file1.xml (Windows)</td>
+                        <td>Nome arquivo XML com o caminho completo, este caminho pode ser
+                            em forma de url, para local utilizar file:/// e remotos http:///, ou fisico.</td>
+                    </tr>
+                    <tr>
+                        <td>carga.diretorio.leitura</td>
+                        <td>xmls/in ou C:\Temp\xml</td>
+                        <td>Se a origrem for diretório este parametro é obrigatório e deve colocar o caminho 
+                        relativo ou fisico onde os arquivos serão depositados</td>
+                    </tr>
+                    <tr>
+                        <td>carga.diretorio.backup</td>                        
+                        <td>xmls/out</td>
+                        <td>Caminho relativo ou fisico onde os arquivos serão guardados apos a execução como backup</td>
+                    </tr>
+                    <tr>
+                        <td>carga.tempo.interacao</td>
+                        <td>3</td>
+                        <td>Tempo em segundos que a aplicação aguarda entre cada veiculo e cada imagem</td>
+                    </tr>
+                    <tr>
+                        <td>carga.upload.maximage</td>
+                        <td>4</td>
+                        <td>número maximo de inagems a serem adicionadas no Quebarato</td>
+                    </tr>
+                    <tr>
+                        <td>logger.arquivo</td>
+                        <td>\dir1\file1.log (Unix), C:\dir1\dir2\file1.log (Windows)</td>
+                        <td>nome e ou path do arquivo de log para monitoramento da aplicação</td>
+                    </tr>                    
+                    <tr>
+                        <td>logger.mailto</td>
+                        <td>O formato desta string precisa estar de acordo com » RFC 2822. Alguns exemplos:<br>
+                            user@example.com<br>
+                            user@example.com, anotheruser@example.com<br>
+                            User &lt;user@example.com&gt;
+                            User &lt;user@example.com&gt;, Another User &lt;anotheruser@example.com&gt;</td>
+                        <td>lista de emails que recebem mensagem do sistema</td>
+                    </tr>
+                    <tr>
+                        <td>bancodados.drive</td>
+                        <td>mysql, mylsqli, mssql, sqlsrv</td>
+                        <td>Tipo de Banco de Dados Utilizados, ainda tem que habilitar no php.ini</td>
+                    </tr>
+                    <tr>
+                        <td>bancodados.servidor</td>
+                        <td>servidor1, localhost, 127.0.0.7</td>
+                        <td>Nome ou IP do host do banco de dados</td>
+                    </tr>
+                    <tr>
+                        <td>bancodados.usuario</td>
+                        <td></td>
+                        <td>Nome usuario de acesso ao banco de dados.</td>
+                    </tr>
+                    <tr>
+                        <td>bancodados.senha</td>
+                        <td></td>
+                        <td>Senha para o usuário de acesso ao banco de dados.</td>
+                    </tr>
+                    <tr>
+                        <td>bancodados.basedados</td>
+                        <td></td>
+                        <td>nome do base ou schema de dados de acesso ao banco de dados.</td>
+                    </tr>
+                    <tr>
+                        <td>quebaratoapi.url</td>
+                        <td></td>
+                        <td>URL da api do quebarato</td>
+                    </tr>          
+                    <tr>
+                        <td>quebaratoapi.key</td>
+                        <td></td>
+                        <td>chave de acesso padrao caso não esteja presente no XML</td>
+                    </tr>           
+                    <tr>
+                        <td>quebaratoapi.condpagamento</td>
+                        <td>/payment-method/offline/6</td>
+                        <td>Condição de Pagamento a ser inserida no Quebarato</td>
+                    </tr>             
+                    <tr>
+                        <td>quebaratoapi.categoria</td>
+                        <td>/category/260</td>
+                        <td>Categoria a ser inserida no Quebarato</td>
+                    </tr>       
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

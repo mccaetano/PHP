@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<estoque>
+<APIQueBarato>46d98f74be65a44e8848d48e4d8dc48e</APIQueBarato>
+<UsuarioQueBarato>Y29udGF0b0BxdWVyb2NhcnJvcy5jb20=</UsuarioQueBarato>
+<SenhaQueBarato>cm8yMzQyMzE=</SenhaQueBarato>
+<concessionaria>
+<razaosocial>Mar-9 Comércio de Véiculo Ltda- Me.</razaosocial>
+<nomefantasia>Mar9</nomefantasia>
+<cnpj>12153626000117</cnpj>
+<logradouro>Rua José Neves</logradouro>
+<numero>168</numero>
+<bairro>Vila São Paulo</bairro>
+<cidade>São Paulo</cidade>
+<uf>SP</uf>
+<cep>04650-140</cep>
+<telefone>(11)3294-9655</telefone>
+<email>mar9motors@hotmail.com</email>
+<veiculo>
+<idQueBarato>11313693</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>2</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>CPM7849</placa>
+<titulo>MERCEDES-BENZ 280 SE 1973 2.8 GASOLINA</titulo>
+<marca>Mercedes-Benz</marca>
+<modelo>280 Se</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1973</ano_fabricacao>
+<ano_modelo>1973</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.8</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Amarelo</cor>
+<cambio>Manual</cambio>
+<final_placa>9</final_placa>
+<quilometragem>0000000</quilometragem>
+<descricao><![CDATA[Veículo MERCEDES-BENZ GOLF 2.8 1973/1973 GASOLINA de cor Amarelo com ótimo preço.; MAIS INFORMACOES: Carro Único Dono, Revisado E Em Excelente Estado De Conservação.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000002.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>25000</preco>
+<observacoes>Carro Único Dono, Revisado E Em Excelente Estado De Conservação.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Rádio e Toca fitas</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000002/GRANDE_000002_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000002/GRANDE_000002_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000002/GRANDE_000002_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000002/GRANDE_000002_4.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313695</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>86</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>BSS8228</placa>
+<titulo>MERCEDES-BENZ 310-D -SPRINTER 1975 BOXSTER GASOLINA</titulo>
+<marca>Mercedes-Benz</marca>
+<modelo>310-d -sprinter</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1975</ano_fabricacao>
+<ano_modelo>1975</ano_modelo>
+<portas>2</portas>
+<motorizacao>BOXSTER-</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Verde</cor>
+<cambio>Manual</cambio>
+<final_placa>8</final_placa>
+<quilometragem>72300</quilometragem>
+<descricao><![CDATA[Veículo MERCEDES-BENZ 280 SE BOXSTER 1975/1975 GASOLINA de cor Verde com ótimo preço.; MAIS INFORMACOES: STEYR PUCH PINZGAUER 1975 PLACA PRETA SÃO PAULO,COM 72000KM ORIGINAIS,UNICO DONO COMPRADO DO EXERCITO DA SUISSA,IMPORTAÇÃO DE ANTIGO,NADA A FAZER EM OTIMO ESTADO DE USO,VENHA CONFERIR NO AUTO SHOPPING CIDADE MORUMBI; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000086.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>95000</preco>
+<observacoes>STEYR PUCH PINZGAUER 1975 PLACA PRETA SÃO PAULO,COM 72000KM ORIGINAIS,UNICO DONO COMPRADO DO EXERCITO DA SUISSA,IMPORTAÇÃO DE ANTIGO,NADA A FAZER EM OTIMO ESTADO DE USO,VENHA CONFERIR NO AUTO SHOPPING CIDADE MORUMBI</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000086/GRANDE_000086_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313697</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>51</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>FIG1881</placa>
+<titulo>PORSCHE 911T 2001 3.6 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911t</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2001</ano_fabricacao>
+<ano_modelo>2001</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.6</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>1</final_placa>
+<quilometragem>46000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE 310-D -SPRINTER 3.6 2001/2001 GASOLINA de cor Prata com ótimo preço.; MAIS INFORMACOES: Todo Revisado; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000051.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>220000</preco>
+<observacoes>Todo Revisado</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Turbo</opcional>
+<opcional>Trio Elétrico</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Teto solar</opcional>
+<opcional>Sensor de estacionamento</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Retrovisor na cor do veículo</opcional>
+<opcional>Retrovisor fotocrômico</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Rádio e Toca fitas</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Piloto automático</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Maçaneta na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de Xenônio</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Espelhos elétricos</opcional>
+<opcional>Disqueteira</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Controle de tração</opcional>
+<opcional>Controle automático de velocidade</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>CD player</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Bancos de couro</opcional>
+<opcional>Bancos com ajuste elétrico</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000051/GRANDE_000051_7.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313702</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>209</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>ANX0090</placa>
+<titulo>PORSCHE 911T 2001 3.6 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911t</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2001</ano_fabricacao>
+<ano_modelo>2001</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.6</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Cinza</cor>
+<cambio>Manual</cambio>
+<final_placa>0</final_placa>
+<quilometragem>57000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE 911T 3.6 2001/2001 GASOLINA de cor Cinza com ótimo preço.; MAIS INFORMACOES: 996 turbo oficial detalhes interior fibra carbono; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000209.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>215000</preco>
+<observacoes>996 turbo oficial detalhes interior fibra carbono</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000209/GRANDE_000209_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313703</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>78</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EEM1933</placa>
+<titulo>CHEVROLET HOT 2010 V8 350CV GASOLINA</titulo>
+<marca>Chevrolet</marca>
+<modelo>Hot</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2010</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>2</portas>
+<motorizacao>V8-350CV</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Manual</cambio>
+<final_placa>3</final_placa>
+<quilometragem>500</quilometragem>
+<descricao><![CDATA[Veículo CHEVROLET 911T V8 350CV 2010/2011 GASOLINA de cor Branco com ótimo preço.; MAIS INFORMACOES: hot okm conv. capota rigida,venha conferir auto shopping cidade morumbi; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000078.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>180000</preco>
+<observacoes>hot okm conv. capota rigida,venha conferir auto shopping cidade morumbi</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000078/GRANDE_000078_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313705</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>71</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>BOO6000</placa>
+<titulo>PORSCHE 911 1994 270CV GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1994</ano_fabricacao>
+<ano_modelo>1994</ano_modelo>
+<portas>2</portas>
+<motorizacao>270CV</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>0</final_placa>
+<quilometragem>49000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE HOT 270CV 1994/1994 GASOLINA de cor Preto com ótimo preço.; MAIS INFORMACOES: porsche 993 ano 1994 mecanico,com 49000km; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000071.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>240000</preco>
+<observacoes>porsche 993 ano 1994 mecanico,com 49000km</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000071/GRANDE_000071_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11337723</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>213</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>AAJ7777</placa>
+<titulo>PORSCHE BOXSTER S 2011 3.4 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>Boxster S</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2012</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.4</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Automática Sequencial</cambio>
+<final_placa>7</final_placa>
+<quilometragem>1800</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE 911 3.4 2011/2012 GASOLINA de cor Branco com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000213.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>310000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Ar-quente</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000213/GRANDE_000213_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313714</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>135</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>MAR7777</placa>
+<titulo>MINI MORRIS 2009 1.0 FLEX FLEX</titulo>
+<marca>Mini</marca>
+<modelo>Morris</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2009</ano_fabricacao>
+<ano_modelo>2009</ano_modelo>
+<portas>2</portas>
+<motorizacao>1.0-FLEX</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Amarelo</cor>
+<cambio>Manual</cambio>
+<final_placa>7</final_placa>
+<quilometragem>12400</quilometragem>
+<descricao><![CDATA[Veículo MINI BOXSTER S 1.0 FLEX 2009/2009 FLEX de cor Amarelo com ótimo preço.; MAIS INFORMACOES: replica mini morris com motor fiat flex 1.0 ; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000135.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>45000</preco>
+<observacoes>replica mini morris com motor fiat flex 1.0 </observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000135/GRANDE_000135_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313715</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>152</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>MAR1234</placa>
+<titulo>ENVEMO SUPER 90 1982 1.6 GASOLINA</titulo>
+<marca>Envemo</marca>
+<modelo>Super 90</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1982</ano_fabricacao>
+<ano_modelo>1982</ano_modelo>
+<portas>2</portas>
+<motorizacao>1.6</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Bege</cor>
+<cambio>Manual</cambio>
+<final_placa>4</final_placa>
+<quilometragem>27000</quilometragem>
+<descricao><![CDATA[Veículo ENVEMO MORRIS 1.6 1982/1982 GASOLINA de cor Bege com ótimo preço.; MAIS INFORMACOES: envemo cabrio bege/vinho; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000152.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>65000</preco>
+<observacoes>envemo cabrio bege/vinho</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000152/GRANDE_000152_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313717</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>198</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>ILQ2798</placa>
+<titulo>FORD F-100 1960 302 V8 GASOLINA</titulo>
+<marca>Ford</marca>
+<modelo>F-100</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1960</ano_fabricacao>
+<ano_modelo>1960</ano_modelo>
+<portas>2</portas>
+<motorizacao>302-V8</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Vermelho</cor>
+<cambio>Manual</cambio>
+<final_placa>8</final_placa>
+<quilometragem>100</quilometragem>
+<descricao><![CDATA[Veículo FORD SUPER 90 302 V8 1960/1960 GASOLINA de cor Vermelho com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000198.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>99000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000198/GRANDE_000198_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313718</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>169</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>GGT0911</placa>
+<titulo>PORSCHE 911 2007 3.8 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2007</ano_fabricacao>
+<ano_modelo>2007</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.8</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Manual</cambio>
+<final_placa>1</final_placa>
+<quilometragem>18000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE F-100 3.8 2007/2007 GASOLINA de cor Branco com ótimo preço.; MAIS INFORMACOES: carrera s branco/azul marinho 18.000km; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000169.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>270000</preco>
+<observacoes>carrera s branco/azul marinho 18.000km</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000169/GRANDE_000169_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313720</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>143</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>FNB1952</placa>
+<titulo>AMERICAR CLASSIC XK120 2005 6CC INJ. GASOLINA</titulo>
+<marca>Americar</marca>
+<modelo>Classic Xk120</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2005</ano_fabricacao>
+<ano_modelo>2005</ano_modelo>
+<portas>2</portas>
+<motorizacao>6CC-INJ.</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>2</final_placa>
+<quilometragem>5000</quilometragem>
+<descricao><![CDATA[Veículo AMERICAR 911 6CC INJ. 2005/2005 GASOLINA de cor Preto com ótimo preço.; MAIS INFORMACOES: injetado motor do omega; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000143.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>80000</preco>
+<observacoes>injetado motor do omega</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Ar-condicionado</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000143/GRANDE_000143_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11337726</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>212</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>JTD8180</placa>
+<titulo>PORSCHE 911 2009 3.8 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2009</ano_fabricacao>
+<ano_modelo>2009</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.8</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Automática Sequencial</cambio>
+<final_placa>0</final_placa>
+<quilometragem>18000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE CLASSIC XK120 3.8 2009/2009 GASOLINA de cor Preto com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000212.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>360000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.querocarros.com/imagens/sem_foto_grande.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313722</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>210</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>DZJ6327</placa>
+<titulo>VOLKSWAGEN JETTA VARIANT 2008 2.5 GASOLINA</titulo>
+<marca>Volkswagen</marca>
+<modelo>Jetta Variant</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2008</ano_fabricacao>
+<ano_modelo>2009</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.5</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Automática Sequencial</cambio>
+<final_placa>7</final_placa>
+<quilometragem>49500</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN 911 2.5 2008/2009 GASOLINA de cor Prata com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000210.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>49500</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000210/GRANDE_000210_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313724</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>204</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>GEF1818</placa>
+<titulo>PORSCHE 911T 2008 3.8 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911t</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2008</ano_fabricacao>
+<ano_modelo>2008</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.8</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>8</final_placa>
+<quilometragem>9000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE JETTA VARIANT 3.8 2008/2008 GASOLINA de cor Preto com ótimo preço.; MAIS INFORMACOES: freio de cerâmica,importação oficial,preto com cinto amarelo,detalhes em fibra de carbono; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000204.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>399000</preco>
+<observacoes>freio de cerâmica,importação oficial,preto com cinto amarelo,detalhes em fibra de carbono</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000204/GRANDE_000204_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313726</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>174</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>DAV0017</placa>
+<titulo>AUDI Q7 2011 V6 TURBO GASOLINA</titulo>
+<marca>Audi</marca>
+<modelo>Q7</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>4</portas>
+<motorizacao>V6-TURBO</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Automática Sequencial</cambio>
+<final_placa>7</final_placa>
+<quilometragem>54000</quilometragem>
+<descricao><![CDATA[Veículo AUDI 911T V6 TURBO 2011/2011 GASOLINA de cor Branco com ótimo preço.; MAIS INFORMACOES: branco bege v6 turbo; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000174.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>160000</preco>
+<observacoes>branco bege v6 turbo</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000174/GRANDE_000174_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313729</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>159</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>MRB7014</placa>
+<titulo>VOLKSWAGEN FUSCA 1973 2.0 GASOLINA</titulo>
+<marca>Volkswagen</marca>
+<modelo>Fusca</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1973</ano_fabricacao>
+<ano_modelo>1973</ano_modelo>
+<portas>2</portas>
+<motorizacao>2.0</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Amarelo</cor>
+<cambio>Manual</cambio>
+<final_placa>4</final_placa>
+<quilometragem>1800</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN Q7 2.0 1973/1973 GASOLINA de cor Amarelo com ótimo preço.; MAIS INFORMACOES: fusca ALEMÃO unico no brasil 1303 s com teto solar motor 2.0 ; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000159.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>80000</preco>
+<observacoes>fusca ALEMÃO unico no brasil 1303 s com teto solar motor 2.0 </observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000159/GRANDE_000159_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313731</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>168</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>CEL7582</placa>
+<titulo>VOLKSWAGEN FUSCA 1980 1.3 GASOLINA</titulo>
+<marca>Volkswagen</marca>
+<modelo>Fusca</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1980</ano_fabricacao>
+<ano_modelo>1980</ano_modelo>
+<portas>2</portas>
+<motorizacao>1.3</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Manual</cambio>
+<final_placa>2</final_placa>
+<quilometragem>560</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN FUSCA 1.3 1980/1980 GASOLINA de cor Branco com ótimo preço.; MAIS INFORMACOES: fusca avallone branco/azul marinho 5 unidades fabricado; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000168.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>65000</preco>
+<observacoes>fusca avallone branco/azul marinho 5 unidades fabricado</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000168/GRANDE_000168_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313733</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>171</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>AAA1111</placa>
+<titulo>PORSCHE 911 1995 3.4 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1995</ano_fabricacao>
+<ano_modelo>1995</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.4</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Automática Sequencial</cambio>
+<final_placa>1</final_placa>
+<quilometragem>34000</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE FUSCA 3.4 1995/1995 GASOLINA de cor Prata com ótimo preço.; MAIS INFORMACOES: 993 cabrio prata /terracota; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000171.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>230000</preco>
+<observacoes>993 cabrio prata /terracota</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Airbag lateral</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000171/GRANDE_000171_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11337728</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>211</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>DDD1111</placa>
+<titulo>PORSCHE 911T 1995 3.6 GASOLINA</titulo>
+<marca>Porsche</marca>
+<modelo>911t</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1995</ano_fabricacao>
+<ano_modelo>1996</ano_modelo>
+<portas>2</portas>
+<motorizacao>3.6</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>1</final_placa>
+<quilometragem>8400</quilometragem>
+<descricao><![CDATA[Veículo PORSCHE 911 3.6 1995/1996 GASOLINA de cor Prata com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000211.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>590000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.querocarros.com/imagens/sem_foto_grande.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313736</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>201</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>KPH2621</placa>
+<titulo>VOLKSWAGEN FUSCA 1996 1.6 GASOLINA</titulo>
+<marca>Volkswagen</marca>
+<modelo>Fusca</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1996</ano_fabricacao>
+<ano_modelo>1996</ano_modelo>
+<portas>2</portas>
+<motorizacao>1.6</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Manual</cambio>
+<final_placa>1</final_placa>
+<quilometragem>31584</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN 911T 1.6 1996/1996 GASOLINA de cor Branco com ótimo preço.; MAIS INFORMACOES: equipado teto solar ,rodas ferro 356,volante porsche,som,etc.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000201.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>25000</preco>
+<observacoes>equipado teto solar ,rodas ferro 356,volante porsche,som,etc.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros verdes</opcional>
+<opcional>Teto solar</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>CD player</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Calotas</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000201/GRANDE_000201_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313737</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>202</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>BFD2802</placa>
+<titulo>CHEVROLET CAMARO 1984 V8 GASOLINA</titulo>
+<marca>Chevrolet</marca>
+<modelo>Camaro</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1984</ano_fabricacao>
+<ano_modelo>1985</ano_modelo>
+<portas>2</portas>
+<motorizacao>V8</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Automática</cambio>
+<final_placa>2</final_placa>
+<quilometragem>58000</quilometragem>
+<descricao><![CDATA[Veículo CHEVROLET FUSCA V8 1984/1985 GASOLINA de cor Preto com ótimo preço.; MAIS INFORMACOES: estado de novo; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000202.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>85000</preco>
+<observacoes>estado de novo</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Trio Elétrico</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Teto solar</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisor na cor do veículo</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme</opcional>
+<opcional>Aerofólio</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000202/GRANDE_000202_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313739</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>205</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>XXX1234</placa>
+<titulo>HONDA CG FAN 125 KS 2010 125 GASOLINA</titulo>
+<marca>Honda</marca>
+<modelo>Cg Fan 125 Ks</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2010</ano_fabricacao>
+<ano_modelo>2010</ano_modelo>
+<portas>2</portas>
+<motorizacao>125</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Azul</cor>
+<cambio>Manual</cambio>
+<final_placa>4</final_placa>
+<quilometragem>200</quilometragem>
+<descricao><![CDATA[Veículo HONDA CAMARO 125 2010/2010 GASOLINA de cor Azul com ótimo preço.; MAIS INFORMACOES: MOTOR MOTO 125 COM 4 MARCHAS,PEÇA UNICA LEVA 2 PESSOAS VELOCIDADE 60 KM ; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000205.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>12000</preco>
+<observacoes>MOTOR MOTO 125 COM 4 MARCHAS,PEÇA UNICA LEVA 2 PESSOAS VELOCIDADE 60 KM </observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000205/GRANDE_000205_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313742</idQueBarato>
+<cnpj_con>12153626000117</cnpj_con>
+<idveiculo>206</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>CQD0828</placa>
+<titulo>MINI MORRIS 1984 1.6 FUSC GASOLINA</titulo>
+<marca>Mini</marca>
+<modelo>Morris</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1984</ano_fabricacao>
+<ano_modelo>1984</ano_modelo>
+<portas>2</portas>
+<motorizacao>1.6-FUSC</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Amarelo</cor>
+<cambio>Manual</cambio>
+<final_placa>8</final_placa>
+<quilometragem>49000</quilometragem>
+<descricao><![CDATA[Veículo MINI CG FAN 125 KS 1.6 FUSC 1984/1984 GASOLINA de cor Amarelo com ótimo preço.; MAIS INFORMACOES: MINI DACON 828 ANO 1984 NUMERO 13 FABRICADOS APENAS 45 UNIDADES; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mar9 - Para entrar em contato com esta revenda ligue para (11)3294-9655 e informe o CÓDIGO DO ANÚNCIO: 00000206.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>55000</preco>
+<observacoes>MINI DACON 828 ANO 1984 NUMERO 13 FABRICADOS APENAS 45 UNIDADES</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_1.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_2.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_3.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_4.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_5.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_6.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_7.jpg</foto>
+<foto>http://www.mar9motors.com.br/veiculos/000206/GRANDE_000206_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+</concessionaria>
+</estoque>

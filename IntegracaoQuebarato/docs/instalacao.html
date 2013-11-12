@@ -1,0 +1,77 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Carga XML para QueBarato</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link type="text/css" rel="stylesheet" href="default.css">
+    </head>
+    <body>
+        <div>
+            <h1>Instalação</h1>
+            <h3>Windows</h3>
+            <p>
+                A instalção para window nescessita de ser para PHP versão 32bits se for utilizar o Banco de Dados MSSQL.
+            </p>
+            <ol>                    
+                <li>baixe e instale o pacote PHP 5.2 ou superior, vide: <a href="http://www.php.net/manual/pt_BR/install.windows.php">Ajuda de instalação PHP</a>.</li>
+                <li>configure o PHP para linha de comando, vide: <a href="http://www.php.net/manual/pt_BR/install.windows.commandline.php">Ajuda de Linha de Comando PHP</a>.</li>
+                <li>Configure o <a href="http://www.php.net/manual/en/ini.php">php.ini</a>
+                <ol>
+                	<li>max_execution_time = 86400</li>
+                	<li>max_input_time = 86400</li>
+                	<li>memory_limit = 1024M</li>
+                	<li>post_max_size = 20M</li>
+                	<li>default_charset = &quot;iso-8859-1&quot;</li>
+                	<li>extension_dir = &quot;php\ext&quot;</li>
+                	<li>upload_max_filesize = 20M</li>
+                	<li>max_file_uploads = 1000</li>
+                	<li>default_socket_timeout = 86400</li>
+                	<li>date.timezone = America/Saopaulo</li>
+                	<li>iconv.input_encoding = ISO-8859-1</li>
+					<li>iconv.internal_encoding = ISO-8859-1</li>
+					<li>iconv.output_encoding = ISO-8859-1</li>                	             	
+                </ol></li>                
+                <li>Verifique se o Banco de dados existe e crie uma Base de dados, usuário, senha. Se a tabela não existir rodar o script db\script\&lt;TipoBanco&gt;\wtb_integracao_quebarato.sql</li>
+                <li>baixe o pacote QuebaratoAPIIntegracao.zip e descompacte Ex: C:\QueBarato.</li>
+                <li>Configure o aplicativo conforme a <a href="#conf">configuração</a>.</li>
+                <li>se não utilizar o php da instalação abra o iniciar.bat e acerte o caminho do php <strong>SET PHP_HOME=%CD%\php</strong></li>
+                <li>se não utilizar o php da instalação abra o iniciar.bat e acerte o caminho das extensões do php <strong>SET PHP_HOME_EXT=%PHP_HOME%\ext</strong></li>
+                <li>Para executar clique duplo em iniciar.bat.</li>
+            </ol>
+            <h3>Unix</h3>
+            <p>
+                Siga as instruções para a instalação em ambiente Unix/Linux.
+            </p>
+            <ol>                    
+                <li>baixe e instale o pacote PHP 5.2 ou superior, vide: <a href="http://www.php.net/manual/pt_BR/install.windows.php">Ajuda de instalação PHP</a>.</li>
+                <li>configure o PHP para linha de comando, vide: <a href="http://www.php.net/manual/pt_BR/install.windows.commandline.php">Ajuda de Linha de Comando PHP</a>.</li>
+                <li>Configure o <a href="http://www.php.net/manual/en/ini.php">php.ini</a>
+                <ol>
+                	<li>max_execution_time = 86400</li>
+                	<li>max_input_time = 86400</li>
+                	<li>memory_limit = 1024M</li>
+                	<li>post_max_size = 20M</li>
+                	<li>default_charset = &quot;iso-8859-1&quot;</li>
+                	<li>extension_dir = &quot;php\ext&quot;</li>
+                	<li>upload_max_filesize = 20M</li>
+                	<li>max_file_uploads = 1000</li>
+                	<li>default_socket_timeout = 86400</li>
+                	<li>date.timezone = America/Saopaulo</li>
+                	<li>iconv.input_encoding = ISO-8859-1</li>
+					<li>iconv.internal_encoding = ISO-8859-1</li>
+					<li>iconv.output_encoding = ISO-8859-1</li>                	             	
+                </ol></li>                
+                <li>Verifique se o Banco de dados existe e crie uma Base de dados, usuário, senha. Se a tabela não existir rodar o script db\script\&lt;TipoBanco&gt;\wtb_integracao_quebarato.sql</li>
+                <li>baixe o pacote QuebaratoAPIIntegracao.zip e descompacte Ex: /opt/QueBarato.</li>
+                <li>Configure o aplicativo conforme a <a href="#conf">configuração</a>.</li>
+                <li>se não utilizar o php da instalação abra o iniciar.bat e acerte o caminho do php <strong>SET PHP_HOME=%CD%\php</strong></li>
+                <li>se não utilizar o php da instalação abra o iniciar.bat e acerte o caminho das extensões do php <strong>SET PHP_HOME_EXT=%PHP_HOME%\ext</strong></li>
+                <li>Para executar ./iniciar.sh.</li>
+            </ol>
+        </div>
+    </body>
+</html>

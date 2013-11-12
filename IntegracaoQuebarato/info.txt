@@ -1,0 +1,9 @@
+2013-11-11 - 15:32:02.000000 - [INFO   ] - Total de arquivos a processar:1
+2013-11-11 - 15:32:02.000000 - [INFO   ] - Arquivo encontrado: C:\Users\marcelocc\eclipse\IntegracaoQuebarato\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
+2013-11-11 - 15:32:03.000000 - [INFO   ] - lendo XML: C:\Users\marcelocc\eclipse\IntegracaoQuebarato\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
+2013-11-11 - 15:35:49.000000 - [INFO   ] - Total de arquivos a processar:1
+2013-11-11 - 15:35:49.000000 - [INFO   ] - Arquivo encontrado: C:\Users\marcelocc\eclipse\IntegracaoQuebarato\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
+2013-11-11 - 15:35:49.000000 - [INFO   ] - lendo XML: C:\Users\marcelocc\eclipse\IntegracaoQuebarato\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
+2013-11-11 - 16:46:36.000000 - [INFO   ] - Total de arquivos a processar:1
+2013-11-11 - 16:46:36.000000 - [INFO   ] - Arquivo encontrado: C:\Users\marcelocc\eclipse\IntegracaoQuebarato\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
+2013-11-11 - 16:46:36.000000 - [INFO   ] - lendo XML: C:\Users\marcelocc\eclipse\IntegracaoQuebarato\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
