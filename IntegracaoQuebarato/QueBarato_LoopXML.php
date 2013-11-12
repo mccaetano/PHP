@@ -53,8 +53,8 @@ if (!is_null($xmldata)) {
 			$userPwdDecoded);			
 	$userData = $QueBaratoAPI->GetUser($userLoginDecoded);
 	if (!$userData) {
-		Logger::logerror("Usuario ($userLoginDecoded) no XML nao encontrado no cadastro do Quebarato.");
-		echo "Usuario ($userLoginDecoded) no XML nao encontrado no cadastro do Quebarato.<br/>";
+		Logger::logerror("Usuario ($userLoginDecoded) no XML nao encontrado no cadastro do Quebarato. XML($arquivo)");
+		echo "Usuario ($userLoginDecoded) no XML nao encontrado no cadastro do Quebarato. XML($arquivo)<br/>";
 		exit(0);
 	}
 	$user = (string) $userData->id;

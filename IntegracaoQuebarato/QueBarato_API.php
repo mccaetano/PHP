@@ -45,7 +45,6 @@ class QueBarato_API {
             Logger::logerror($errmsg);
             return FALSE;
         }
-        Logger::logerror("msg");
         return json_decode($cURL_response);
     }
         

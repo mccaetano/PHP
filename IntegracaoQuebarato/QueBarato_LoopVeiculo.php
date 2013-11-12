@@ -114,7 +114,7 @@ $AnuncioPub['stock'] = array(
 if (!$idQueBarato) {
 	$idQueBarato = $QueBaratoAPI->AddAnuncio($AnuncioPub, $Quebarato_auth);
 	if (!$idQueBarato) {
-		Logger::logerror("Anuncio nao criando veja o log");
+		Logger::logerror("\nXML($arquivo). Anuncio nao criando veja o log ");
 		die("Anuncio nao criando veja o log<br/>");
 	}
 	$dbData->SetAnuncio($idveiculo, $idQueBarato, $cnpj_con);
@@ -122,7 +122,7 @@ if (!$idQueBarato) {
 } else {
 	$QueBaratoAPI->SetAnuncio($AnuncioPub, $Quebarato_auth);
 	if (!$idQueBarato) {
-		Logger::logerror("Anuncio nao atualizado veja o log");
+		Logger::logerror("\nXML($arquivo). Anuncio nao atualizado veja o log");
 		die("Anuncio nao atualizado veja o log<br/>");
 	}
 	Logger::loginfo("Anuncio atualizado no QueBarato: AnuncioID: $idQueBarato, Titulo: $titulo. ");
@@ -136,7 +136,7 @@ if ($idQueBarato) {
 		$image_name = (string)$imagefile[$i];
 		$file_down = FileIO::DownloadImage($image_name);
 		if (!$file_down) {
-			Logger::logwarn("Imagem não adicionada AnuncioID: $idQueBarato, Titulo: $titulo. Imagem: $image_name");
+			Logger::logwarn("\nXML($arquivo). Imagem não adicionada AnuncioID: $idQueBarato, Titulo: $titulo. Imagem: $image_name");
 		} else {
 			$QueBaratoAPI->AddImage($idQueBarato, $file_down, $Quebarato_auth);
 			Logger::loginfo("Imagem adicionada com sucesso: AnuncioID: $idQueBarato, Titulo: $titulo. Imagem: $image_name");
