@@ -6,3 +6,4 @@ contato@querocarros.com
 
 2013-11-11 - 16:47:36.000000 - [ERROR  ] - validacao out
 2013-11-11 - 16:47:36.000000 - [ERROR  ] - Usuario (contato@querocarros.com) no XML nao encontrado no cadastro do Quebarato.
+sdfsdfsdf git
