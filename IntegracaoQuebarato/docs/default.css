@@ -1,0 +1,51 @@
+/* 
+    Document   : default
+    Created on : 26/09/2013, 11:03:00
+    Author     : MarceloCC
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+Body {
+    margin: 10px;
+}        
+table, tr, td {
+    border: thin solid black; 
+}
+.dvtitle {
+    width: 480px;
+    float: left;
+}
+.dvtop {
+    width: 920px;
+    float: right;
+}
+.ultop {
+    list-style-type: none;
+    text-align: center;
+}
+.litop {
+    display: inline-block;
+    width: 122px;
+}
+.atop {
+    text-decoration: none;
+    color: black;
+}
+thead {
+    background-color: goldenrod;
+    font-style: oblique;
+    font-size: large;
+    font-weight: bold;
+}
+.dvheader {
+    border-bottom: thin solid black; 
+    height: 80px;
+    width: 100%;
+}
+.dvbody {
+    display: block;    
+    width: 100%; 
+    height: 640px;
+    border: none;
+} 

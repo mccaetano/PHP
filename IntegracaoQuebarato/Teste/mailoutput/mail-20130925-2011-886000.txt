@@ -1,0 +1,115 @@
+To: marcelocc@hdi.com.br
+Subject: Error_Log
+
+Email automatico enviado pelo sistema.
+
+ Mensagem:
+ HTTP response error (500) for url(http://api.quebarato.com) , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.
+<html>
+  <head>
+	  <title>Grails Runtime Exception</title>
+	  <style type="text/css">
+	  		.message {
+	  			border: 1px solid black;
+	  			padding: 5px;
+	  			background-color:#E9E9E9;
+	  		}
+	  		.stack {
+	  			border: 1px solid black;
+	  			padding: 5px;
+	  			overflow:auto;
+	  			height: 300px;
+	  		}
+	  		.snippet {
+	  			padding: 5px;
+	  			background-color:white;
+	  			border:1px solid black;
+	  			margin:3px;
+	  			font-family:courier;
+	  		}
+	  </style>
+  </head>
+
+  <body>
+    <h1>Grails Runtime Exception</h1>
+    <h2>Error Details</h2>
+
+  	<div class="message">
+		<strong>Error 500:</strong> Executing action [handle] of controller [org.grails.jaxrs.JaxrsController] in plugin [jaxrs] caused exception: Runtime error executing action<br/>
+		<strong>Servlet:</strong> grails<br/>
+		<strong>URI:</strong> /grails/jaxrs.dispatch<br/>
+		
+	  		<strong>Exception Message:</strong> Cannot invoke method getFileName() on null object <br />
+	  		<strong>Caused by:</strong> Cannot invoke method getFileName() on null object <br />
+	  		<strong>Class:</strong> GrailsFragmentCachingFilter <br />
+	  		<strong>At Line:</strong> [66] <br />
+	  		<strong>Code Snippet:</strong><br />
+	  		<div class="snippet">
+	  			
+	  		</div>
+		
+  	</div>
+	
+	    <h2>Stack Trace</h2>
+	    <div class="stack">
+	      <pre>java.lang.NullPointerException: Cannot invoke method getFileName() on null object<br/>	at com.quebarato.api.resource.MediaImageResource.post(MediaImageResource.groovy:40)<br/>	at com.sun.jersey.spi.container.JavaMethodInvokerFactory$1.invoke(JavaMethodInvokerFactory.java:60)<br/>	at com.sun.jersey.server.impl.model.method.dispatch.AbstractResourceMethodDispatchProvider$ResponseOutInvoker._dispatch(AbstractResourceMethodDispatchProvider.java:205)<br/>	at com.sun.jersey.server.impl.model.method.dispatch.ResourceJavaMethodDispatcher.dispatch(ResourceJavaMethodDispatcher.java:75)<br/>	at com.sun.jersey.server.impl.uri.rules.HttpMethodRule.accept(HttpMethodRule.java:302)<br/>	at com.sun.jersey.server.impl.uri.rules.ResourceClassRule.accept(ResourceClassRule.java:108)<br/>	at com.sun.jersey.server.impl.uri.rules.RightHandPathRule.accept(RightHandPathRule.java:147)<br/>	at com.sun.jersey.server.impl.uri.rules.RootResourceClassesRule.accept(RootResourceClassesRule.java:84)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl._handleRequest(WebApplicationImpl.java:1511)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl._handleRequest(WebApplicationImpl.java:1442)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl.handleRequest(WebApplicationImpl.java:1391)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl.handleRequest(WebApplicationImpl.java:1381)<br/>	at com.sun.jersey.spi.container.servlet.WebComponent.service(WebComponent.java:416)<br/>	at com.sun.jersey.spi.container.servlet.ServletContainer.service(ServletContainer.java:538)<br/>	at com.sun.jersey.spi.container.servlet.ServletContainer.service(ServletContainer.java:716)<br/>	at org.grails.jaxrs.web.JaxrsContext$JaxrsServiceImpl.process(JaxrsContext.java:192)<br/>	at org.grails.jaxrs.JaxrsController.handle(JaxrsController.groovy:45)<br/>	at grails.plugin.springcache.web.GrailsFragmentCachingFilter.doFilter(GrailsFragmentCachingFilter.groovy:66)<br/>	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)<br/>	at org.grails.jaxrs.web.JaxrsFilter.doFilterInternal(JaxrsFilter.java:46)<br/>	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)<br/>	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)<br/>	at java.lang.Thread.run(Thread.java:619)<br/></pre>
+	    </div>
+	
+  </body>
+</html>
+Body: 
+<html>
+  <head>
+	  <title>Grails Runtime Exception</title>
+	  <style type="text/css">
+	  		.message {
+	  			border: 1px solid black;
+	  			padding: 5px;
+	  			background-color:#E9E9E9;
+	  		}
+	  		.stack {
+	  			border: 1px solid black;
+	  			padding: 5px;
+	  			overflow:auto;
+	  			height: 300px;
+	  		}
+	  		.snippet {
+	  			padding: 5px;
+	  			background-color:white;
+	  			border:1px solid black;
+	  			margin:3px;
+	  			font-family:courier;
+	  		}
+	  </style>
+  </head>
+
+  <body>
+    <h1>Grails Runtime Exception</h1>
+    <h2>Error Details</h2>
+
+  	<div class="message">
+		<strong>Error 500:</strong> Executing action [handle] of controller [org.grails.jaxrs.JaxrsController] in plugin [jaxrs] caused exception: Runtime error executing action<br/>
+		<strong>Servlet:</strong> grails<br/>
+		<strong>URI:</strong> /grails/jaxrs.dispatch<br/>
+		
+	  		<strong>Exception Message:</strong> Cannot invoke method getFileName() on null object <br />
+	  		<strong>Caused by:</strong> Cannot invoke method getFileName() on null object <br />
+	  		<strong>Class:</strong> GrailsFragmentCachingFilter <br />
+	  		<strong>At Line:</strong> [66] <br />
+	  		<strong>Code Snippet:</strong><br />
+	  		<div class="snippet">
+	  			
+	  		</div>
+		
+  	</div>
+	
+	    <h2>Stack Trace</h2>
+	    <div class="stack">
+	      <pre>java.lang.NullPointerException: Cannot invoke method getFileName() on null object<br/>	at com.quebarato.api.resource.MediaImageResource.post(MediaImageResource.groovy:40)<br/>	at com.sun.jersey.spi.container.JavaMethodInvokerFactory$1.invoke(JavaMethodInvokerFactory.java:60)<br/>	at com.sun.jersey.server.impl.model.method.dispatch.AbstractResourceMethodDispatchProvider$ResponseOutInvoker._dispatch(AbstractResourceMethodDispatchProvider.java:205)<br/>	at com.sun.jersey.server.impl.model.method.dispatch.ResourceJavaMethodDispatcher.dispatch(ResourceJavaMethodDispatcher.java:75)<br/>	at com.sun.jersey.server.impl.uri.rules.HttpMethodRule.accept(HttpMethodRule.java:302)<br/>	at com.sun.jersey.server.impl.uri.rules.ResourceClassRule.accept(ResourceClassRule.java:108)<br/>	at com.sun.jersey.server.impl.uri.rules.RightHandPathRule.accept(RightHandPathRule.java:147)<br/>	at com.sun.jersey.server.impl.uri.rules.RootResourceClassesRule.accept(RootResourceClassesRule.java:84)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl._handleRequest(WebApplicationImpl.java:1511)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl._handleRequest(WebApplicationImpl.java:1442)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl.handleRequest(WebApplicationImpl.java:1391)<br/>	at com.sun.jersey.server.impl.application.WebApplicationImpl.handleRequest(WebApplicationImpl.java:1381)<br/>	at com.sun.jersey.spi.container.servlet.WebComponent.service(WebComponent.java:416)<br/>	at com.sun.jersey.spi.container.servlet.ServletContainer.service(ServletContainer.java:538)<br/>	at com.sun.jersey.spi.container.servlet.ServletContainer.service(ServletContainer.java:716)<br/>	at org.grails.jaxrs.web.JaxrsContext$JaxrsServiceImpl.process(JaxrsContext.java:192)<br/>	at org.grails.jaxrs.JaxrsController.handle(JaxrsController.groovy:45)<br/>	at grails.plugin.springcache.web.GrailsFragmentCachingFilter.doFilter(GrailsFragmentCachingFilter.groovy:66)<br/>	at net.sf.ehcache.constructs.web.filter.Filter.doFilter(Filter.java:86)<br/>	at org.grails.jaxrs.web.JaxrsFilter.doFilterInternal(JaxrsFilter.java:46)<br/>	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)<br/>	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)<br/>	at java.lang.Thread.run(Thread.java:619)<br/></pre>
+	    </div>
+	
+  </body>
+</html>
+.
+
+Favor não responder esse email

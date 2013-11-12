@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<estoque>
+<APIQueBarato>46d98f74be65a44e8848d48e4d8dc48e</APIQueBarato>
+<UsuarioQueBarato>Y29udGF0b0BxdWVyb2NhcnJvcy5jb20=</UsuarioQueBarato>
+<SenhaQueBarato>cm8yMzQyMzE=</SenhaQueBarato>
+<concessionaria>
+<razaosocial>Logimix Comércio de Veículos Ltda.</razaosocial>
+<nomefantasia>MixcarVeículos</nomefantasia>
+<cnpj>06081882000143</cnpj>
+<logradouro>Rua Barão do Triunfo</logradouro>
+<numero>88 - Sala 713</numero>
+<bairro>Ed. Company Work Station - Bairro Campo Belo</bairro>
+<cidade>São Paulo</cidade>
+<uf>SP</uf>
+<cep>04602-000</cep>
+<telefone>(11)3843-5818</telefone>
+<email>mixcar@mixcarveiculos.com.br</email>
+<veiculo>
+<idQueBarato>11313916</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1373</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EQO9626</placa>
+<titulo>CHEVROLET CAPTIVA 2010 3.6 V6 GASOLINA</titulo>
+<marca>Chevrolet</marca>
+<modelo>Captiva</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2010</ano_fabricacao>
+<ano_modelo>2010</ano_modelo>
+<portas>4</portas>
+<motorizacao>3.6-V6</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Automática</cambio>
+<final_placa>6</final_placa>
+<quilometragem>27000</quilometragem>
+<descricao><![CDATA[Veículo CHEVROLET CORSA WIND 3.6 V6 2010/2010 GASOLINA de cor Prata com ótimo preço.; MAIS INFORMACOES: *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001373.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>56000</preco>
+<observacoes>*A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Tração 4X4</opcional>
+<opcional>Sensor de chuva</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Rack</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Piloto automático</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Faróis com regulagem interna
+</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Controle de tração</opcional>
+<opcional>Controle de som no volante
+</opcional>
+<opcional>Controle de estabilidade
+</opcional>
+<opcional>Controle automático de velocidade</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Coluna de Direção Ajustável</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Bancos dianteiros com aquecimento</opcional>
+<opcional>Bancos de couro</opcional>
+<opcional>Bancos com ajuste elétrico</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar Condicionado Digital</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Air bag Lateral Traseiro</opcional>
+<opcional>Air bag Lateral Dianteiro</opcional>
+<opcional>Abertura Interna do Porta-malas</opcional>
+<opcional>4X2</opcional>
+<opcional>Volante com regulagem de altura</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001373/GRANDE_001373_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313921</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1375</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EDR2125</placa>
+<titulo>CHRYSLER PT CRUISER 2008 2.4 16V GASOLINA</titulo>
+<marca>Chrysler</marca>
+<modelo>Pt Cruiser</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2008</ano_fabricacao>
+<ano_modelo>2008</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.4-16V</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Automática</cambio>
+<final_placa>5</final_placa>
+<quilometragem>44000</quilometragem>
+<descricao><![CDATA[Veículo CHRYSLER CAPTIVA 2.4 16V 2008/2008 GASOLINA de cor Prata com ótimo preço.; MAIS INFORMACOES: *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001375.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>37000</preco>
+<observacoes>*A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Sensor de estacionamento</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Piloto automático</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Controle automático de velocidade</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Bancos dianteiros com aquecimento</opcional>
+<opcional>Bancos de couro</opcional>
+<opcional>Bancos com ajuste elétrico</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Air bag Lateral Dianteiro</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001375/GRANDE_001375_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313926</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1376</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EPI6575</placa>
+<titulo>HYUNDAI TUCSON 2009 2.0 16V GASOLINA</titulo>
+<marca>Hyundai</marca>
+<modelo>Tucson</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2009</ano_fabricacao>
+<ano_modelo>2010</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.0-16V</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Automática</cambio>
+<final_placa>5</final_placa>
+<quilometragem>63000</quilometragem>
+<descricao><![CDATA[Veículo HYUNDAI PT CRUISER 2.0 16V 2009/2010 GASOLINA de cor Preto com ótimo preço.; MAIS INFORMACOES: *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001376.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>47000</preco>
+<observacoes>*A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Entrada USB</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Bancos de couro</opcional>
+<opcional>Banco traseiro retrátil
+</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Air bag Lateral Dianteiro</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001376/GRANDE_001376_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313930</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1377</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EWM3628</placa>
+<titulo>KIA SOUL 2011 1.6 16V FLEX</titulo>
+<marca>Kia</marca>
+<modelo>Soul</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2012</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.6-16V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>8</final_placa>
+<quilometragem>27000</quilometragem>
+<descricao><![CDATA[Veículo KIA TUCSON 1.6 16V 2011/2012 FLEX de cor Preto com ótimo preço.; MAIS INFORMACOES: *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001377.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>45000</preco>
+<observacoes>*A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Insul Film</opcional>
+<opcional>Faróis com regulagem interna
+</opcional>
+<opcional>Entrada USB</opcional>
+<opcional>Direção Elétrica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Controle de som no volante
+</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Banco traseiro retrátil
+</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001377/GRANDE_001377_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313932</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1381</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>OLT5965</placa>
+<titulo>VOLKSWAGEN GOL 2012 1.0 8V FLEX</titulo>
+<marca>Volkswagen</marca>
+<modelo>Gol</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2012</ano_fabricacao>
+<ano_modelo>2013</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.0-8V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>5</final_placa>
+<quilometragem>19000</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN SOUL 1.0 8V 2012/2013 FLEX de cor Prata com ótimo preço.; MAIS INFORMACOES: Veículo de único dono, com 19.000 kms originais, todas as revisões em concessionária, completo, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001381.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>27500</preco>
+<observacoes>Veículo de único dono, com 19.000 kms originais, todas as revisões em concessionária, completo, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Entrada USB</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001381/GRANDE_001381_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313937</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1382</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>OLR6608</placa>
+<titulo>FIAT IDEA 2012 1.4 8V FLEX</titulo>
+<marca>Fiat</marca>
+<modelo>Idea</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2012</ano_fabricacao>
+<ano_modelo>2013</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.4-8V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Cinza</cor>
+<cambio>Manual</cambio>
+<final_placa>8</final_placa>
+<quilometragem>32000</quilometragem>
+<descricao><![CDATA[Veículo FIAT GOL 1.4 8V 2012/2013 FLEX de cor Cinza com ótimo preço.; MAIS INFORMACOES: Veículo de único dono, com 32.000 kms originais, todas as revisões em concessionária, completo com Airbag duplo, freios ABS, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001382.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>39000</preco>
+<observacoes>Veículo de único dono, com 32.000 kms originais, todas as revisões em concessionária, completo com Airbag duplo, freios ABS, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Rack</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Espelhos elétricos</opcional>
+<opcional>Entrada USB</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Abertura Interna do Porta-malas</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001382/GRANDE_001382_7.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313938</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1383</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>HJA5675</placa>
+<titulo>FORD FOCUS HATCH 2011 1.6 16V FLEX</titulo>
+<marca>Ford</marca>
+<modelo>Focus Hatch</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2012</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.6-16V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Cinza</cor>
+<cambio>Manual</cambio>
+<final_placa>5</final_placa>
+<quilometragem>32000</quilometragem>
+<descricao><![CDATA[Veículo FORD IDEA 1.6 16V 2011/2012 FLEX de cor Cinza com ótimo preço.; MAIS INFORMACOES: Veículo de único dono, com 32.000 kms originais, todas as revisões em concessionária, completo com Airbag duplo, freios ABS, rodas de liga leve, cd player original, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001383.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>39000</preco>
+<observacoes>Veículo de único dono, com 32.000 kms originais, todas as revisões em concessionária, completo com Airbag duplo, freios ABS, rodas de liga leve, cd player original, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Faróis com regulagem interna
+</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Break light
+</opcional>
+<opcional>Bluetooth</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Abertura Interna do Porta-malas</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001383/GRANDE_001383_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313943</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1384</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>OLO8799</placa>
+<titulo>FIAT DOBLÒ 2012 1.8 16V FLEX</titulo>
+<marca>Fiat</marca>
+<modelo>Doblò</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2012</ano_fabricacao>
+<ano_modelo>2013</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.8-16V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>9</final_placa>
+<quilometragem>35000</quilometragem>
+<descricao><![CDATA[Veículo FIAT FOCUS HATCH 1.8 16V 2012/2013 FLEX de cor Prata com ótimo preço.; MAIS INFORMACOES: Veículo de único dono, 07 lugares, com 35.000 kms originais, todas as revisões em concessionária, completo com Airbag duplo, freios ABS, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001384.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>49000</preco>
+<observacoes>Veículo de único dono, 07 lugares, com 35.000 kms originais, todas as revisões em concessionária, completo com Airbag duplo, freios ABS, novíssimo !!! *A MIXCAR SE RESERVA O DIREITO DE CORRIGIR POSSÍVEIS ERROS DE DIGITAÇÃO*</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Rack</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Imobilizador de motor
+</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Entrada USB</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Bagageiro</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Abertura Interna do Porta-malas</opcional>
+<opcional>7 Lugares</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001384/GRANDE_001384_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313950</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1389</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>OLR8327</placa>
+<titulo>VOLKSWAGEN SAVEIRO 2012 1.6 8V FLEX</titulo>
+<marca>Volkswagen</marca>
+<modelo>Saveiro</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2012</ano_fabricacao>
+<ano_modelo>2013</ano_modelo>
+<portas>2</portas>
+<motorizacao>1.6-8V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>7</final_placa>
+<quilometragem>33000</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN DOBLÒ 1.6 8V 2012/2013 FLEX de cor Prata com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001389.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>31000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Único dono
+</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Protetor de caçamba</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Entrada USB</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001389/GRANDE_001389_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313953</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1392</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EUD4627</placa>
+<titulo>VOLKSWAGEN POLO SEDAN 2011 1.6 8V FLEX</titulo>
+<marca>Volkswagen</marca>
+<modelo>Polo Sedan</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2012</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.6-8V</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>7</final_placa>
+<quilometragem>47000</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN SAVEIRO 1.6 8V 2011/2012 FLEX de cor Preto com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001392.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>31000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Retrovisor na cor do veículo</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Chave Cópia</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Abertura Interna do Porta-malas</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001392/GRANDE_001392_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313955</idQueBarato>
+<cnpj_con>06081882000143</cnpj_con>
+<idveiculo>1394</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>DWR6910</placa>
+<titulo>HONDA CRV 2007 2.0 16V GASOLINA</titulo>
+<marca>Honda</marca>
+<modelo>Crv</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2007</ano_fabricacao>
+<ano_modelo>2007</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.0-16V</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Automática</cambio>
+<final_placa>0</final_placa>
+<quilometragem>70000</quilometragem>
+<descricao><![CDATA[Veículo HONDA POLO SEDAN 2.0 16V 2007/2007 GASOLINA de cor Preto com ótimo preço. Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Mixcar Veículos - Para entrar em contato com esta revenda ligue para (11)3843-5818 e informe o CÓDIGO DO ANÚNCIO: 00001394.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>60000</preco>
+<observacoes></observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros verdes</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Único dono
+</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Trava central</opcional>
+<opcional>Tração 4X4</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Retrovisor fotocrômico</opcional>
+<opcional>Rádio FM/AM</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Freios ABS</opcional>
+<opcional>Farol de neblina</opcional>
+<opcional>Faróis com regulagem interna
+</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção Elétrica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Controle de som no volante
+</opcional>
+<opcional>Controle de estabilidade
+</opcional>
+<opcional>Controle automático de velocidade</opcional>
+<opcional>Computador de bordo</opcional>
+<opcional>Chave Cópia</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Blindado</opcional>
+<opcional>Bancos de couro</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Banco Bi-partido</opcional>
+<opcional>Aviso Sonoro dos Faróis Acesos</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar Condicionado Digital</opcional>
+<opcional>Apoio de Braço</opcional>
+<opcional>Alarme à distância</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Air bag Lateral Traseiro</opcional>
+<opcional>Air bag Lateral Dianteiro</opcional>
+<opcional>Abertura Interna do Porta-malas</opcional>
+<opcional>4X4</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_1.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_2.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_3.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_4.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_5.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_6.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_7.jpg</foto>
+<foto>http://www.mixcarveiculos.com.br/veiculos/001394/GRANDE_001394_8.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+</concessionaria>
+</estoque>

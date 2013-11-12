@@ -1,0 +1,13 @@
+To: marcelocc@hdi.com.br
+Subject: Error_Log
+
+Email automatico enviado pelo sistema.
+
+ Mensagem:
+ HTTP response error (0) for url(http://api.quebarato.com) , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.
+
+Body: 
+
+.
+
+Favor não responder esse email

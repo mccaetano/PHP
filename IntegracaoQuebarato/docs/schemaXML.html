@@ -1,0 +1,137 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <div>
+            <h1>XML Schema</h1>
+            <p>O Schema XML é o modelo de dados para geral seu XML a ser consumido, deve-se seguir sempre o modelo para o bom funcionamento do aplicativo</p>
+            <span>&lt;?xml&nbsp;version=&quot;1.0&quot;&nbsp;encoding=&quot;utf-16&quot;?&gt;<br>
+&lt;xsd:schema&nbsp;attributeFormDefault=&quot;unqualified&quot;&nbsp;elementFormDefault=&quot;qualified&quot;&nbsp;version=&quot;1.0&quot;&nbsp;xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;<br>
+&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;estoque&quot;&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;APIQueBarato&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;UsuarioQueBarato&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;SenhaQueBarato&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;concessionaria&quot;&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;razaosocial&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;nomefantasia&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;cnpj&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;logradouro&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;numero&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;bairro&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;cidade&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;uf&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;cep&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;telefone&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;email&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;veiculo&quot;&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;idQueBarato&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;cnpj_con&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;idveiculo&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;tipoveiculo&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;zerokm&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;placa&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;titulo&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;marca&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;modelo&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;versao&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;ano_fabricacao&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;ano_modelo&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;portas&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;motorizacao&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;combustivel&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;cor&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;cambio&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;final_placa&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;quilometragem&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;descricao&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;preco&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;observacoes&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;tipo&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;procedencia&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;opcionais&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;fotos&quot;&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;maxOccurs=&quot;unbounded&quot;&nbsp;name=&quot;foto&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:element&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;xsd:element&nbsp;name=&quot;data&quot;&nbsp;type=&quot;xsd:string&quot;&nbsp;/&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:element&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:complexType&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:element&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:sequence&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/xsd:complexType&gt;<br>
+&nbsp;&nbsp;&lt;/xsd:element&gt;<br>
+&lt;/xsd:schema&gt;</span>
+            <h3>Exmeplo:</h3>
+            <span>&lt;?xml version=&quot;1.0&quot; encoding=&quot;iso-8859-1&quot;?&gt;<br>
+&lt;estoque&gt;<br>
+&nbsp;&lt;APIQueBarato&gt;&lt;/APIQueBarato&gt;<br>
+&nbsp;&lt;UsuarioQueBarato&gt;&lt;/UsuarioQueBarato&gt;<br>
+&nbsp;&lt;SenhaQueBarato&gt;&lt;/SenhaQueBarato&gt;<br>
+&nbsp;&lt;concessionaria&gt;<br>
+&nbsp;&nbsp;&lt;razaosocial&gt;&lt;/razaosocial&gt;<br>
+&nbsp;&nbsp;&lt;nomefantasia&gt;&lt;/nomefantasia&gt;<br>
+&nbsp;&nbsp;&lt;cnpj&gt;&lt;/cnpj&gt;<br>
+&nbsp;&nbsp;&lt;logradouro&gt;&lt;/logradouro&gt;<br>
+&nbsp;&nbsp;&lt;numero&gt;&lt;/numero&gt;<br>
+&nbsp;&nbsp;&lt;bairro&gt;&lt;/bairro&gt;<br>
+&nbsp;&nbsp;&lt;cidade&gt;&lt;/cidade&gt;<br>
+&nbsp;&nbsp;&lt;uf&gt;&lt;/uf&gt;<br>
+&nbsp;&nbsp;&lt;cep&gt;&lt;/cep&gt;<br>
+&nbsp;&nbsp;&lt;telefone&gt;&lt;/telefone&gt;<br>
+&nbsp;&nbsp;&lt;email&gt;&lt;/email&gt;<br>
+&nbsp;&nbsp;&lt;veiculo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;idQueBarato&gt;&lt;/idQueBarato&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;cnpj_con&gt;&lt;/cnpj_con&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;idveiculo&gt;&lt;/idveiculo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;tipoveiculo&gt;&lt;/tipoveiculo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;zerokm&gt;&lt;/zerokm&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;placa&gt;&lt;/placa&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;titulo&gt;&lt;/titulo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;marca&gt;&lt;/marca&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;modelo&gt;&lt;/modelo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;versao&gt;&lt;/versao&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;ano_fabricacao&gt;&lt;/ano_fabricacao&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;ano_modelo&gt;&lt;/ano_modelo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;portas&gt;&lt;/portas&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;motorizacao&gt;&lt;/motorizacao&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;combustivel&gt;&lt;/combustivel&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;cor&gt;&lt;/cor&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;cambio&gt;&lt;/cambio&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;final_placa&gt;&lt;/final_placa&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;quilometragem&gt;&lt;/quilometragem&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;descricao&gt;&lt;/descricao&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;preco&gt;&lt;/preco&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;observacoes/&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;tipo&gt;&lt;/tipo&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;procedencia&gt;&lt;/procedencia&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;opcionais&gt;&lt;/opcionais&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;fotos&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;foto&gt;&lt;/foto&gt;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;foto&gt;&lt;/foto&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;/fotos&gt;<br>
+&nbsp;&nbsp;&nbsp;&lt;data&gt;&lt;/data&gt;<br>
+&nbsp;&nbsp;&lt;/veiculo&gt;<br>
+&nbsp;&lt;/concessionaria&gt;<br>
+&lt;/estoque&gt;</span>
+        </div>
+    </body>
+</html>

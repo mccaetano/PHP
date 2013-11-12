@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<estoque>
+<APIQueBarato>46d98f74be65a44e8848d48e4d8dc48e</APIQueBarato>
+<UsuarioQueBarato>Y29udGF0b0BxdWVyb2NhcnJvcy5jb20=</UsuarioQueBarato>
+<SenhaQueBarato>cm8yMzQyMzE=</SenhaQueBarato>
+<concessionaria>
+<razaosocial>Jair clever rodrigues - Epp</razaosocial>
+<nomefantasia>JtAutomóveis</nomefantasia>
+<cnpj>05054752000159</cnpj>
+<logradouro>R. Dr. Francis Dhornett</logradouro>
+<numero>210</numero>
+<bairro>Jardim Silveira</bairro>
+<cidade>Barueri</cidade>
+<uf>SP</uf>
+<cep>06433-220</cep>
+<telefone>(11)4162-1926</telefone>
+<email>jtautomoveis@gmail.com</email>
+<veiculo>
+<idQueBarato>11313623</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>293</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EGP0006</placa>
+<titulo>TOYOTA COROLLA 2010 1.8 FLEX</titulo>
+<marca>Toyota</marca>
+<modelo>Corolla</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2010</ano_fabricacao>
+<ano_modelo>2010</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.8</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Automática</cambio>
+<final_placa>6</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo TOYOTA A4 1.8 2010/2010 FLEX de cor Preto com ótimo preço.; MAIS INFORMACOES: Carro !!! Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000293.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>52900</preco>
+<observacoes>Carro !!! Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>CD player</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme</opcional>
+<opcional>Airbag passageiro</opcional>
+<opcional>Airbag motorista</opcional>
+<opcional>Abertura Interna do Porta-malas 
+</opcional>
+<opcional>Abertura Int. da Tampa do Comb. 
+</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000293/GRANDE_000293_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000293/GRANDE_000293_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000293/GRANDE_000293_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000293/GRANDE_000293_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000293/GRANDE_000293_5.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313627</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>363</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>ATV0007</placa>
+<titulo>FIAT PALIO 2011 1.4 FLEX</titulo>
+<marca>Fiat</marca>
+<modelo>Palio</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.4</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>7</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo FIAT COROLLA 1.4 2011/2011 FLEX de cor Prata com ótimo preço.; MAIS INFORMACOES: Carro !!! Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000363.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>29900</preco>
+<observacoes>Carro !!! Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Ar-quente</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000363/GRANDE_000363_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000363/GRANDE_000363_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000363/GRANDE_000363_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000363/GRANDE_000363_4.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11333046</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>377</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>ASG0004</placa>
+<titulo>VOLKSWAGEN GOLF 2010 2.0 FLEX</titulo>
+<marca>Volkswagen</marca>
+<modelo>Golf</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2010</ano_fabricacao>
+<ano_modelo>2010</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.0</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Automática</cambio>
+<final_placa>4</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN PALIO 2.0 2010/2010 FLEX de cor Preto com ótimo preço.; MAIS INFORMACOES: Carro Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000377.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>39900</preco>
+<observacoes>Carro Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>CD player</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar Condicionado Digital 
+</opcional>
+<opcional>Apoio de Braço 
+</opcional>
+<opcional>Alarme</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000377/GRANDE_000377_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000377/GRANDE_000377_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000377/GRANDE_000377_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000377/GRANDE_000377_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000377/GRANDE_000377_5.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313635</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>187</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>XCX0000</placa>
+<titulo>FIAT FIORINO 2011 1.3 FLEX</titulo>
+<marca>Fiat</marca>
+<modelo>Fiorino</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>3</portas>
+<motorizacao>1.3</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Branco</cor>
+<cambio>Manual</cambio>
+<final_placa>0</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo FIAT GOLF 1.3 2011/2011 FLEX de cor Branco com ótimo preço.; MAIS INFORMACOES: Carro Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000187.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>27900</preco>
+<observacoes>Carro Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000187/GRANDE_000187_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000187/GRANDE_000187_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000187/GRANDE_000187_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000187/GRANDE_000187_4.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313639</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>76</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>CJN0005</placa>
+<titulo>FIAT PALIO 2005 1.3 FLEX</titulo>
+<marca>Fiat</marca>
+<modelo>Palio</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2005</ano_fabricacao>
+<ano_modelo>2005</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.3</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>5</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo FIAT FIORINO 1.3 2005/2005 FLEX de cor Preto com ótimo preço.; MAIS INFORMACOES: carro !!! em excelente estado de conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000076.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>19990</preco>
+<observacoes>carro !!! em excelente estado de conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Alarme</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000076/GRANDE_000076_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000076/GRANDE_000076_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000076/GRANDE_000076_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000076/GRANDE_000076_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000076/GRANDE_000076_5.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000076/GRANDE_000076_6.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313642</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>38</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>BNH0009</placa>
+<titulo>VOLKSWAGEN V/W LAFER 1980 1600 GASOLINA</titulo>
+<marca>Volkswagen</marca>
+<modelo>V/w Lafer</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>1980</ano_fabricacao>
+<ano_modelo>1980</ano_modelo>
+<portas>2</portas>
+<motorizacao>1600</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Branco</cor>
+<cambio>Manual</cambio>
+<final_placa>9</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN PALIO 1600 1980/1980 GASOLINA de cor Branco com ótimo preço.; MAIS INFORMACOES: carro !!! em otimo estado de conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000038.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>39900</preco>
+<observacoes>carro !!! em otimo estado de conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000038/GRANDE_000038_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000038/GRANDE_000038_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000038/GRANDE_000038_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000038/GRANDE_000038_4.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313646</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>53</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>CFD0003</placa>
+<titulo>VOLKSWAGEN GOLF 2002 2.0 GASOLINA</titulo>
+<marca>Volkswagen</marca>
+<modelo>Golf</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2002</ano_fabricacao>
+<ano_modelo>2002</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.0</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>3</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN V/W LAFER 2.0 2002/2002 GASOLINA de cor Prata com ótimo preço.; MAIS INFORMACOES: CARRO !!! EM EXCELENTE ESTADO DE CONSERVAÇAO...; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000053.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>23900</preco>
+<observacoes>CARRO !!! EM EXCELENTE ESTADO DE CONSERVAÇAO...</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Volante com regulagem de altura</opcional>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Travas elétricas</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Retrovisor na cor do veículo</opcional>
+<opcional>Protetor para motor e cárter</opcional>
+<opcional>Porta-copos</opcional>
+<opcional>Para-Choque na cor do veículo</opcional>
+<opcional>Maçaneta na cor do veículo</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Insul Film</opcional>
+<opcional>Injeção Eletrônica</opcional>
+<opcional>Farol de Xenônio</opcional>
+<opcional>Engate</opcional>
+<opcional>Encosto de cabeça traseiro</opcional>
+<opcional>DVD Player</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Chave Cópia 
+</opcional>
+<opcional>Chave codificada (Code)</opcional>
+<opcional>CD player com MP3</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Bancos de couro</opcional>
+<opcional>Banco Reclinável 
+</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Apoio de Braço 
+</opcional>
+<opcional>Alarme</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_5.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_6.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000053/GRANDE_000053_7.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11337717</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>390</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EQW0006</placa>
+<titulo>FIAT PUNTO 2011 1.8 FLEX</titulo>
+<marca>Fiat</marca>
+<modelo>Punto</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.8</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Automática</cambio>
+<final_placa>6</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo FIAT GOLF 1.8 2011/2011 FLEX de cor Prata com ótimo preço.; MAIS INFORMACOES: Carro !!! Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000390.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>38900</preco>
+<observacoes>Carro !!! Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>CD player</opcional>
+<opcional>Câmbio automático</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.querocarros.com/imagens/sem_foto_grande.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313650</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>231</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EBT0000</placa>
+<titulo>CHEVROLET CORSA SEDAN 2012 1.0 FLEX</titulo>
+<marca>Chevrolet</marca>
+<modelo>Corsa Sedan</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2012</ano_fabricacao>
+<ano_modelo>2012</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.0</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>0</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo CHEVROLET PUNTO 1.0 2012/2012 FLEX de cor Prata com ótimo preço.; MAIS INFORMACOES: Carro !!! Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000231.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>22900</preco>
+<observacoes>Carro !!! Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000231/GRANDE_000231_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000231/GRANDE_000231_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000231/GRANDE_000231_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000231/GRANDE_000231_4.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313653</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>310</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>JKA0004</placa>
+<titulo>CHRYSLER PT CRUISER 2007 2.4 GASOLINA</titulo>
+<marca>Chrysler</marca>
+<modelo>Pt Cruiser</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2007</ano_fabricacao>
+<ano_modelo>2007</ano_modelo>
+<portas>4</portas>
+<motorizacao>2.4</motorizacao>
+<combustivel>Gasolina</combustivel>
+<cor>Preto</cor>
+<cambio>Automática</cambio>
+<final_placa>4</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo CHRYSLER CORSA SEDAN 2.4 2007/2007 GASOLINA de cor Preto com ótimo preço.; MAIS INFORMACOES: Carro Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000310.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>29900</preco>
+<observacoes>Carro Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Importado</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros e traseiros</opcional>
+<opcional>Rodas de Liga Leve</opcional>
+<opcional>Retrovisores Elétricos</opcional>
+<opcional>Limpador traseiro</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Câmbio manual</opcional>
+<opcional>Banco motorista com ajuste de altura</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+<opcional>Alarme</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000310/GRANDE_000310_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000310/GRANDE_000310_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000310/GRANDE_000310_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000310/GRANDE_000310_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000310/GRANDE_000310_5.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313656</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>324</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EAD0002</placa>
+<titulo>VOLKSWAGEN VOYAGE 2011 1.0 FLEX</titulo>
+<marca>Volkswagen</marca>
+<modelo>Voyage</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.0</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>2</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo VOLKSWAGEN PT CRUISER 1.0 2011/2011 FLEX de cor Preto com ótimo preço.; MAIS INFORMACOES: Carro !!! Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000324.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>27900</preco>
+<observacoes>Carro !!! Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Ar-quente</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000324/GRANDE_000324_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000324/GRANDE_000324_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000324/GRANDE_000324_3.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11337718</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>292</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>NVG0005</placa>
+<titulo>CHEVROLET CELTA 2012 1.0 FLEX</titulo>
+<marca>Chevrolet</marca>
+<modelo>Celta</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2012</ano_fabricacao>
+<ano_modelo>2012</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.0</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Prata</cor>
+<cambio>Manual</cambio>
+<final_placa>5</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo CHEVROLET VOYAGE 1.0 2012/2012 FLEX de cor Prata com ótimo preço.; MAIS INFORMACOES: Carro Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000292.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>26900</preco>
+<observacoes>Carro Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+<opcional>Vidros elétricos dianteiros</opcional>
+<opcional>Direção hidráulica</opcional>
+<opcional>Desembaçador traseiro</opcional>
+<opcional>Ar-quente</opcional>
+<opcional>Ar-condicionado</opcional>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000292/GRANDE_000292_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000292/GRANDE_000292_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000292/GRANDE_000292_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000292/GRANDE_000292_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000292/GRANDE_000292_5.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+<veiculo>
+<idQueBarato>11313668</idQueBarato>
+<cnpj_con>05054752000159</cnpj_con>
+<idveiculo>244</idveiculo>
+<tipoveiculo>Carro</tipoveiculo>
+<zerokm>N</zerokm>
+<placa>EUI0003</placa>
+<titulo>CHEVROLET CORSA SEDAN 2011 1.0 FLEX</titulo>
+<marca>Chevrolet</marca>
+<modelo>Corsa Sedan</modelo>
+<versao><![CDATA[]]></versao>
+<ano_fabricacao>2011</ano_fabricacao>
+<ano_modelo>2011</ano_modelo>
+<portas>4</portas>
+<motorizacao>1.0</motorizacao>
+<combustivel>Flex</combustivel>
+<cor>Preto</cor>
+<cambio>Manual</cambio>
+<final_placa>3</final_placa>
+<quilometragem>0</quilometragem>
+<descricao><![CDATA[Veículo CHEVROLET CELTA 1.0 2011/2011 FLEX de cor Preto com ótimo preço.; MAIS INFORMACOES: Carro Em Excelente Estado De Conservaçao.; Viabilizamos financiamento em ate 60 Meses, fazemos Troca com Troco. Temos parceria com diversos bancos e financeiras. Aceitamos seu usado na troca. Veículos revisados e com garantia.<br><br>Revenda: Jt Automóveis - Para entrar em contato com esta revenda ligue para (11)4162-1926 e informe o CÓDIGO DO ANÚNCIO: 00000244.<br><br>Veja mais anúncios desta revenda em <a href='http://www.querocarros.com'>www.querocarros.com</a><br><br>Anúncio publicado através do it-Car. ]]></descricao>
+<preco>21900</preco>
+<observacoes>Carro Em Excelente Estado De Conservaçao.</observacoes>
+<tipo>Usado</tipo>
+<procedencia>Nacional</procedencia>
+<opcionais>
+</opcionais>
+<fotos>
+<foto>http://www.jtautomoveis.com.br/veiculos/000244/GRANDE_000244_1.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000244/GRANDE_000244_2.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000244/GRANDE_000244_3.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000244/GRANDE_000244_4.jpg</foto>
+<foto>http://www.jtautomoveis.com.br/veiculos/000244/GRANDE_000244_5.jpg</foto>
+</fotos>
+<data>11/11/2013</data>
+</veiculo>
+</concessionaria>
+</estoque>
