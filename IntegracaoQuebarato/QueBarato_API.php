@@ -39,7 +39,7 @@ class QueBarato_API {
         unset($cURL);
         
         if (intval($cURL_Status_Response) > 300) {
-        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em adicionar imagem , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
+        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em buscar usuario , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
             $errmsg .= $cURL_Error . "\n";  
             $errmsg .= "Body: \n" . $login . "\n";   
             Logger::logerror($errmsg);
@@ -68,7 +68,7 @@ class QueBarato_API {
         unset($cURL);
                 
         if (intval($cURL_Status_Response) > 300) {
-        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em adicionar imagem , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
+        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em buscar anuncio , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
             $errmsg .= $cURL_Error . "\n";        
             Logger::logerror($errmsg);
             return FALSE;
@@ -115,7 +115,7 @@ class QueBarato_API {
         unset($cURL);    
                 
         if (intval($cURL_Status_Response) > 300) {
-        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em adicionar imagem , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
+        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em adicionar anuncio , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
             $errmsg .= $cURL_Error . "\n";
             $errmsg .= "Body: \n" . $json_anuncio . "\n";
             Logger::logerror($errmsg);            
@@ -213,7 +213,7 @@ class QueBarato_API {
         unset($cURL);
         
         if (intval($cURL_Status_Response) > 300) {
-        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em adicionar imagem , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
+        	$errmsg = "HTTP response error ($cURL_Status_Response) for url($url) para o metodo POST em alterar anuncio, see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.\n";
             $errmsg .= $cURL_Error . "\n";
             $errmsg .= "Body: \n" . $json_anuncio . "\n";            
             Logger::logerror($errmsg);

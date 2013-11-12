@@ -91,14 +91,14 @@ if (!is_null($xmldata)) {
 					"user" => (string)$user,
 					"imagefile" => $fotos
 			);
-			HTTPRequest::PostDataAssync("QueBarato_LoopVeiculo.php", http_build_query($fields));
+			HTTPRequest::PostData("QueBarato_LoopVeiculo.php", http_build_query($fields));
 			if (trim($veiculo->idQueBarato) == "0" || trim($veiculo->idQueBarato) == "") {
 				$resumo["veiculo_novo"] = intval($resumo["veiculo_novo"]) + 1;
 			} else {
 				$resumo["veiculo_alterado"] = intval($resumo["veiculo_alterado"]) + 1;
 			}
 			$resumo["veiculo"] = intval($resumo["veiculo"]) + 1;
-			unset($fields);			
+			unset($fields);
 		}
 	}
 	$resumo["data_final"] = date("Y-m-D H:i:s");
@@ -110,9 +110,7 @@ if (!is_null($xmldata)) {
 	$resumo_msg .= "Total de Veiculos: " . $resumo["veiculo"] . "\n";
 	$resumo_msg .= "Total de Veiculos Adicionados: " . $resumo["veiculo_novo"] . "\n";
 	$resumo_msg .= "Total de Veiculos Atualizados: " . $resumo["veiculo_alterado"] . "\n";
-	Logger::logerror("email in");
 	Logger::SendMail($resumo_msg);
-	Logger::logerror("email out");
 
 }
 exit(0);
