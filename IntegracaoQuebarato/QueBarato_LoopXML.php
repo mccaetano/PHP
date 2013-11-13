@@ -22,7 +22,7 @@ $resumo["Mensagem"] = "Total de registro processados para o arquivo xml";
 
 Logger::loginfo("lendo XML: $arquivo");
 $xmldata = $xmlload->loadXML($arquivo);
-$geraLista->BackupArquivo($arquivo);
+
 $resumo["xml"] = $arquivo;
 $resumo["data_inicio"] = date("Y-m-D H:i:s");
 $resumo["consecionaria"] = 0;
@@ -102,7 +102,7 @@ if (!is_null($xmldata)) {
 		}
 	}
 	$resumo["data_final"] = date("Y-m-D H:i:s");
-	$resumo_msg = "Resumo de execucao\n";
+	$resumo_msg = "Resumo de execucao ($arquivo)\n";
 	$resumo_msg = "Arquivo: " . $arquivo . "\n";
 	$resumo_msg .= "Inicio: " . $resumo["data_inicio"] . "\n";
 	$resumo_msg .= "Final: " . $resumo["data_final"] . "\n";
@@ -113,5 +113,6 @@ if (!is_null($xmldata)) {
 	Logger::SendMail($resumo_msg);
 
 }
+$geraLista->BackupArquivo($arquivo);
 exit(0);
 ?>
