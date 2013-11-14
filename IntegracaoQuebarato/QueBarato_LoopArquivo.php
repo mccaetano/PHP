@@ -22,7 +22,7 @@ foreach ($listaaqruivos as $arquivo) {
 	Logger::loginfo("Arquivo encontrado: $arquivo");
 	$fields = array("arquivo" => $arquivo);
 	HTTPRequest::PostDataAssync("QueBarato_LoopXML.php", $fields);
-	sleep(5);
+	sleep(10);
 }
 
 exit(0);

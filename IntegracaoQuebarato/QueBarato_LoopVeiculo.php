@@ -120,7 +120,7 @@ if (!$idQueBarato) {
 	$dbData->SetAnuncio($idveiculo, $idQueBarato, $cnpj_con);
 	Logger::loginfo("Anuncio criado no QueBarato: AnuncioID: $idQueBarato, Tiulo: $titulo. ");
 } else {
-	$QueBaratoAPI->SetAnuncio($AnuncioPub, $Quebarato_auth);
+	$idQueBarato = $QueBaratoAPI->SetAnuncio($AnuncioPub, $Quebarato_auth);
 	if (!$idQueBarato) {
 		Logger::logerror("\nXML($arquivo). Anuncio nao atualizado veja o log");
 		die("Anuncio nao atualizado veja o log<br/>");
