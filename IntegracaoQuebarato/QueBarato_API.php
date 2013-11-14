@@ -219,7 +219,7 @@ class QueBarato_API {
             Logger::logerror($errmsg);
             return false;
         }                
-        return true;
+        return (string)$anuncio["id"];
     }
 }
 
