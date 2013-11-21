@@ -117,7 +117,7 @@ $AnuncioPub['advertiser'] = array (
 $AnuncioPub['stock'] = array(
 		'available' => $estoque
 );
-Logger::loginfo("estoque: $estoque");exit(0);
+
 if (!$idQueBarato) {
 	$idQueBarato = $QueBaratoAPI->AddAnuncio($AnuncioPub, $Quebarato_auth);
 	if (!$idQueBarato) {
