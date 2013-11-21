@@ -1,6 +1,0 @@
-2013-11-21 - 09:59:41.000000 - [INFO   ] - Total de arquivos a processar:1
-2013-11-21 - 09:59:41.000000 - [INFO   ] - Arquivo encontrado: C:\Users\marcelocc\git\PHP\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
-2013-11-21 - 09:59:41.000000 - [INFO   ] - lendo XML: C:\Users\marcelocc\git\PHP\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml
-2013-11-21 - 10:01:11.000000 - [INFO   ] - Total de arquivos a processar:1
-2013-11-21 - 10:01:11.000000 - [INFO   ] - Arquivo encontrado: C:\Users\marcelocc\git\PHP\IntegracaoQuebarato\xml\entrada\Mar9.xml
-2013-11-21 - 10:01:11.000000 - [INFO   ] - lendo XML: C:\Users\marcelocc\git\PHP\IntegracaoQuebarato\xml\entrada\Mar9.xml

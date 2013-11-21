@@ -1,7 +1,0 @@
-2013-11-21 - 10:00:07.000000 - [ERROR  ] - Usuario (contato@querocarros.com) no XML nao encontrado no cadastro do Quebarato. XML(C:\Users\marcelocc\git\PHP\IntegracaoQuebarato\xml\entrada\AguiarAutomóveis.xml)
-2013-11-21 - 10:02:11.000000 - [ERROR  ] - HTTP response error (504) for url(http://api.quebarato.com/v2/user?email=contato@querocarros.com) para o metodo POST em buscar usuario , see the http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html.
-
-Body: 
-contato@querocarros.com
-
-2013-11-21 - 10:02:11.000000 - [ERROR  ] - Usuario (contato@querocarros.com) no XML nao encontrado no cadastro do Quebarato. XML(C:\Users\marcelocc\git\PHP\IntegracaoQuebarato\xml\entrada\Mar9.xml)
