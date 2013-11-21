@@ -74,7 +74,7 @@ if (!is_null($xmldata)) {
 			for ($i=0;$i<count($imagefile);$i++) {
 				$fotos[$i] = trim((string)$imagefile[$i]);
 			}
-	
+				
 			$fields = array(
 					"idveiculo" => (string) $veiculo->idveiculo,
 					"placa" => (string) $veiculo->placa,
@@ -84,10 +84,11 @@ if (!is_null($xmldata)) {
 					"cep" => (string) $concessionaria->cep,
 					"idQueBarato" => (string) $veiculo->idQueBarato,
 					"titulo" => (string) $veiculo->titulo,
-					"descricao" => (string) $veiculo->descricao,
+					"descricao" => htmlspecialchars((string) $veiculo->descricao),
 					"arquivo" => (string)$arquivo,
 					"Quebarato_auth" => (string)$Quebarato_auth,
 					"cep" => (string)$concessionaria->cep,
+					"estoque" => (string) $veiculo->estoque,
 					"user" => (string)$user,
 					"imagefile" => $fotos
 			);

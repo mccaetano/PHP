@@ -25,10 +25,11 @@ $cep = (string)$_POST['cep'];
 $idQueBarato = (string)$_POST['idQueBarato'];
 $titulo = (string)$_POST['titulo'];
 $descricao = (string)$_POST['descricao'];
-$arquivo = (string)$_POST['$arquivo'];
+$arquivo = (string)$_POST['arquivo'];
 $Quebarato_auth = (string)$_POST['Quebarato_auth'];
 $user = (string)$_POST['user'];
 $imagefile = $_POST['imagefile'];
+$estoque = $_POST['estoque'];
 
 Logger::loginfo("Lendo veiculo:" . $idveiculo . " placa: " . $placa . " cnpj: " . $cnpj_con);
 
@@ -70,7 +71,13 @@ if (trim((string) $categoria) == "") {
 	die($msg);
 }
 
+if (!$estoque) {
+	$estoque = '1';
+}
 
+if (trim((string)$estoque) == '') {
+	$estoque = '1';
+} 
 
 if ($idQueBarato == '' || $idQueBarato == '0') {
 	$idQueBarato = FALSE;
@@ -108,9 +115,9 @@ $AnuncioPub['advertiser'] = array (
 		'href' => "/user/$user"
 );
 $AnuncioPub['stock'] = array(
-		'available' => 1
+		'available' => $estoque
 );
-
+Logger::loginfo("estoque: $estoque");exit(0);
 if (!$idQueBarato) {
 	$idQueBarato = $QueBaratoAPI->AddAnuncio($AnuncioPub, $Quebarato_auth);
 	if (!$idQueBarato) {
