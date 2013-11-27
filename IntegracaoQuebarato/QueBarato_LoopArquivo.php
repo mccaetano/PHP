@@ -17,11 +17,12 @@ $geraLista = new QueBarato_GeraListaArquivos();
 $listaaqruivos = $geraLista->ListaArquivos();
 Logger::loginfo("Total de arquivos a processar:" . count($listaaqruivos));
 
-foreach ($listaaqruivos as $arquivo) {	
-
+for ($i=0;$i<count($listaaqruivos);$i++) {	
+	$arquivo = $listaaqruivos[$i];
 	Logger::loginfo("Arquivo encontrado: $arquivo");
 	$fields = array("arquivo" => $arquivo);
 	HTTPRequest::PostDataAssync("QueBarato_LoopXML.php", $fields);
+	unset($fields);
 	sleep(10);
 }
 

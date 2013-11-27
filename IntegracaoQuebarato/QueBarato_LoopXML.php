@@ -22,7 +22,7 @@ $resumo["Mensagem"] = "Total de registro processados para o arquivo xml";
 
 Logger::loginfo("lendo XML: $arquivo");
 $xmldata = $xmlload->loadXML($arquivo);
-$geraLista->BackupArquivo($arquivo);
+#$geraLista->BackupArquivo($arquivo);
 $resumo["xml"] = $arquivo;
 $resumo["data_inicio"] = date("Y-m-D H:i:s");
 $resumo["consecionaria"] = 0;
@@ -40,7 +40,7 @@ if (!is_null($xmldata)) {
 		echo "Chave API do Quebarato nao informado<br/>";
 		exit(0);
 	}
-
+	
 	if (($xmldata->UsuarioQueBarato == "") || ($xmldata->SenhaQueBarato == "")) {
 		Logger::logerror("Logon do Quebarato nao informado no XML:$arquivo");
 		echo "Logon do Quebarato nao informado no XML:$arquivo<br/>";
@@ -58,8 +58,7 @@ if (!is_null($xmldata)) {
 		exit(0);
 	}
 	$user = (string) $userData->id;
-	
-	
+		
 	foreach ($xmldata->concessionaria as $concessionaria) {
 		$resumo["consecionaria"] = (int)$resumo["consecionaria"] + 1;
 		foreach ($concessionaria->veiculo as $veiculo) {
@@ -69,6 +68,7 @@ if (!is_null($xmldata)) {
 			break;
 			}
 			*/
+			
 			$fotos = array();
 			$imagefile = $veiculo->fotos->foto;
 			for ($i=0;$i<count($imagefile);$i++) {
@@ -84,7 +84,7 @@ if (!is_null($xmldata)) {
 					"cep" => (string) $concessionaria->cep,
 					"idQueBarato" => (string) $veiculo->idQueBarato,
 					"titulo" => (string) $veiculo->titulo,
-					"descricao" => htmlspecialchars((string) $veiculo->descricao),
+					"descricao" => (string)$veiculo->descricao,
 					"arquivo" => (string)$arquivo,
 					"Quebarato_auth" => (string)$Quebarato_auth,
 					"cep" => (string)$concessionaria->cep,
@@ -104,13 +104,14 @@ if (!is_null($xmldata)) {
 	}
 	$resumo["data_final"] = date("Y-m-D H:i:s");
 	$resumo_msg = "Resumo de execucao ($arquivo)\n";
-	$resumo_msg = "Arquivo: " . $arquivo . "\n";
+	$resumo_msg .= "Arquivo: " . $arquivo . "\n";
 	$resumo_msg .= "Inicio: " . $resumo["data_inicio"] . "\n";
 	$resumo_msg .= "Final: " . $resumo["data_final"] . "\n";
 	$resumo_msg .= "Total de Concessionarias: " . $resumo["consecionaria"] . "\n";
 	$resumo_msg .= "Total de Veiculos: " . $resumo["veiculo"] . "\n";
 	$resumo_msg .= "Total de Veiculos Adicionados: " . $resumo["veiculo_novo"] . "\n";
 	$resumo_msg .= "Total de Veiculos Atualizados: " . $resumo["veiculo_alterado"] . "\n";
+	Logger::loginfo($resumo_msg);
 	Logger::SendMail($resumo_msg);
 
 }

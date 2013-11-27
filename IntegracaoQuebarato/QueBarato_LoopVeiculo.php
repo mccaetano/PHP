@@ -36,7 +36,7 @@ Logger::loginfo("Lendo veiculo:" . $idveiculo . " placa: " . $placa . " cnpj: " 
 
 if ((double)$preco <= 0.0) {
 	$msg = print_r($_POST, TRUE) . "\n";
-	$msg .= "Veiculo ID ($idveiculo), placa($placa) esta sem o preço, por favor revisar o XML($arquivo)";
+	$msg .= "Veiculo ID ($idveiculo), placa($placa) esta sem o preï¿½o, por favor revisar o XML($arquivo)";
 	Logger::logerror($msg);
 	die($msg);
 }
@@ -58,7 +58,7 @@ if (trim(strtoupper((string)$cep)) == "") {
 $condpagamento = SysProperties::getPropertyValue("quebaratoapi.condpagamento");
 if (trim((string) $condpagamento) == "") {
 	$msg = print_r($_POST, TRUE) . "\n";
-	$msg .= "Veiculo ID ($idveiculo), placa($placa) condição pagamento em branco, por favor revisar o XML($arquivo)";
+	$msg .= "Veiculo ID ($idveiculo), placa($placa) condiï¿½ï¿½o pagamento em branco, por favor revisar o XML($arquivo)";
 	Logger::logerror($msg);
 	die($msg);
 }
@@ -94,12 +94,12 @@ if ($idQueBarato) {
 }
 
 $AnuncioPub['title'] = trim($titulo);
-$AnuncioPub['description'] = $descricao;
+$AnuncioPub['description'] = html_entity_decode($descricao, ENT_QUOTES, "UTF-8");
 $AnuncioPub['price'] = array(
 		'currency'=> 'BRL',
 		'value' => doubleval($preco)
 );
-$AnuncioPub['condition'] = $tipo;
+$AnuncioPub['condition'] = strtoupper($tipo);
 $AnuncioPub['locale'] = array(
 		"zip" => (string) (preg_replace('/[^a-z\d ]/i', '', $cep))
 );
@@ -143,7 +143,7 @@ if ($idQueBarato) {
 		$image_name = (string)$imagefile[$i];
 		$file_down = FileIO::DownloadImage($image_name);
 		if (!$file_down) {
-			Logger::logwarn("\nXML($arquivo). Imagem não adicionada AnuncioID: $idQueBarato, Titulo: $titulo. Imagem: $image_name");
+			Logger::logwarn("\nXML($arquivo). Imagem nï¿½o adicionada AnuncioID: $idQueBarato, Titulo: $titulo. Imagem: $image_name");
 		} else {
 			$QueBaratoAPI->AddImage($idQueBarato, $file_down, $Quebarato_auth);
 			Logger::loginfo("Imagem adicionada com sucesso: AnuncioID: $idQueBarato, Titulo: $titulo. Imagem: $image_name");

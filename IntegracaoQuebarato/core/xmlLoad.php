@@ -16,7 +16,7 @@ class xmlLoad {
 
 			libxml_clear_errors();
 		}
-		
+				
 		return $data;
 	}
 }

@@ -21,11 +21,9 @@ class HTTPRequest {
 		curl_setopt($curl, CURLOPT_POSTFIELDS, $postData);
 		curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
 		
-		$result = curl_exec($curl);		
-		$return = curl_getinfo($curl);
 		$result = curl_exec($curl);
 		$return = curl_getinfo($curl, CURLINFO_HTTP_CODE);
-		if (intval($return) > 300) {
+		if (intval($return) > 400) {
 			if (is_array($result)) {
 				$msg = "Erro HTTP(" . $return . "): \n";
 				for ($i=0;$i<count($result);$i++) {
@@ -67,7 +65,7 @@ class HTTPRequest {
 				
 		$result = curl_exec($curl);
 		$return = curl_getinfo($curl, CURLINFO_HTTP_CODE);
-		if (intval($return) > 300) {
+		if (intval($return) > 400) {
 			if (is_array($result)) {
 				$msg = "Erro HTTP(" . $return . "): \n";
 				for ($i=0;$i<count($result);$i++) {

@@ -12,9 +12,13 @@ class QueBarato_GeraListaArquivos {
             $listaarquivos[] = SysProperties::getPropertyValue("carga.arquivo.nome");
         } else {
             $dirin = SysProperties::getPropertyValue("carga.diretorio.leitura");
-                        
-            foreach (scandir($dirin) as $file) {
-                if ($file != '.' && $file != '..') {
+			
+            $files = scandir($dirin);
+            
+            unset($listaarquivos);
+            for ($i=0; $i<count($files); $i++) {
+            	$file = $files[$i];
+                if ($file != '.' && $file != '..' && $file != '') {
                     $listaarquivos[] = realpath($dirin . "/" . $file);
                 }
             }

@@ -33,6 +33,25 @@ class FileIO {
 		
 		return realpath($fileOut);
 	} 
+	
+	static function convertToUTF8($file) {
+		$pathinfo = pathinfo($file);
+		$fileOut = "tmp/" . $pathinfo["basename"];
+		
+		$fs_in = fopen($file, "r");
+		$data = fread($fs_in, filesize($file)); 
+		if (!$data) {
+			$errmsg = "Erro lendo o arquivo ($file).\n";
+			Logger::logerror($errmsg);
+			return FALSE;
+		}
+		fclose($fs_in);
+		$fs_ou = fopen($fileOut,'w');
+		fwrite($fs_ou, utf8_encode($data));
+		fclose($fs_ou);		
+		
+		return realpath($fileOut);
+	}
 }
 
 ?>
