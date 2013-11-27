@@ -22,7 +22,7 @@ $resumo["Mensagem"] = "Total de registro processados para o arquivo xml";
 
 Logger::loginfo("lendo XML: $arquivo");
 $xmldata = $xmlload->loadXML($arquivo);
-#$geraLista->BackupArquivo($arquivo);
+$geraLista->BackupArquivo($arquivo);
 $resumo["xml"] = $arquivo;
 $resumo["data_inicio"] = date("Y-m-D H:i:s");
 $resumo["consecionaria"] = 0;
